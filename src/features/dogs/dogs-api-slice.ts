@@ -1,1 +1,0 @@
-const DOG_API_KEY = "JSHSHDSHDHD";
